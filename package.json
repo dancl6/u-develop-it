@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/dancl6/u-develop-it#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "sqlite3": "^4.2.0"
   },
   "devDependencies": {
